@@ -1,0 +1,16 @@
+cobd0="system.img"
+cobd7="swap512m.img"
+cobd1="CentOS-5.2-i386-bin-DVD.iso"
+cobd2="stage2.img"
+cobd3="centos52-boot.iso"
+cofs0="C:\Program Files\coLinux"
+kernel="C:\Program Files\coLinux\vmlinux"
+root=/dev/ram0
+initrd=install_initrd.gz
+mem=512
+eth0=slirp,,tcp:5901:5900
+eth1=pcap-bridge,"Local Area Connection",,
+eth2=tuntap
+
+
+
