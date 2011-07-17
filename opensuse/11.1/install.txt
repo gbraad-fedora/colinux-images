@@ -1,0 +1,15 @@
+cobd0="system.img"
+cobd7="swap512m.img"
+cobd1="openSUSE-11.1-DVD-i586.iso"
+cofs0="C:\Program Files\coLinux"
+cofs1="images"
+kernel="C:\Program Files\coLinux\vmlinux"
+root=/dev/ram0
+initrd=install_initrd.gz
+mem=512
+eth0=slirp,,tcp:5901:5900
+eth1=pcap-bridge,"Local Area Connection",,
+eth2=tuntap
+
+
+
