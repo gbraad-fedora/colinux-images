@@ -1,0 +1,11 @@
+cobd0="system.img"
+cobd7="swap512m.img"
+cobd1="CentOS-5.3-i386-bin-DVD.iso"
+cofs0="C:\Program Files\coLinux"
+kernel="C:\Program Files\coLinux\vmlinux"
+root=/dev/cobd0 fastboot
+#initrd="C:\Program Files\coLinux\initrd.gz"
+mem=512
+eth0=slirp,,tcp:5901:5900
+eth1=pcap-bridge,"Local Area Connection",,
+eth2=tuntap
