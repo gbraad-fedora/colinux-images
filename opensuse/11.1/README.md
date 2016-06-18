@@ -1,4 +1,5 @@
-openSUSE 11.1 distribution and install process for use with coLinux.
+openSUSE 11.1 coLinux
+=====================
 
 
 This archive contains what is needed to install and run the openSUSE
@@ -16,6 +17,8 @@ image for use with coLinux:
    instructions-rpm.txt         How to install using RPM
 
 
+Usage
+-----
 
 If you start the environment you need the following login credentials:
 
@@ -25,6 +28,8 @@ If you start the environment you need the following login credentials:
 Network is configured from the parameters file 'run.txt'.
 
 
+Install
+-------
 
 Installation was performed as described in the instructions. You would
 need to download the businesscard ISO from Debian. You could find this
@@ -69,4 +74,4 @@ It has been tested on the current stable version of coLinux, which is
 0.7.3. Any comments are welcome at me+colinux@gbraad.nl.
 
 
-Gerard Braad
+_Gerard Braad <me@gbraad.nl>_

@@ -1,8 +1,13 @@
-CentOS 5.3 base system for use with coLinux.
+CentOS 5.3 coLinux
+==================
 
 
 This archive contains the CentOS 5.3 installation which can be used with
 coLinux. Included are the scripts to start the emulation environment.
+
+
+Usage
+-----
 
 The login for the environment is
 
@@ -10,6 +15,10 @@ The login for the environment is
    password:
 
 Network is configured from the parameters file 'run.txt'.
+
+
+Install
+-------
 
 Installation was performed from the debian business card initrd.gz and
 the stage2.img as provided by CentOS. It has been tested on the current
@@ -21,4 +30,4 @@ included. A more detailed instruction can be found at:
 Any comments are welcome at me+colinux@gbraad.nl.
 
 
-Gerard Braad
+_Gerard Braad <me@gbraad.nl>_

@@ -1,8 +1,13 @@
-CentOS 5.2 distribution for use with coLinux.
+CentOS 5.2 coLinux
+==================
 
 
 This archive contains the CentOS 5.2 installation which can be used with coLinux.
 Included are the scripts to start the emulation environment.
+
+
+Usage
+-----
 
 The login for the environment is
 
@@ -26,4 +31,4 @@ This environment has been tested on the current stable version of coLinux, which
 comments are welcome at me+colinux@gbraad.nl.
 
 
-Gerard Braad
+_Gerard Braad <me@gbraad.nl>_

@@ -1,5 +1,5 @@
-CentOS 5.2 install process for use with coLinux.
-
+CentOS 5.2 coLinux install process
+==================================
 
 This file contains what is needed to install the CentOS 5.2 image for
 use with coLinux:
@@ -52,4 +52,4 @@ A more detailed instruction can be found at:
 Any comments are welcome at me+colinux@gbraad.nl.
 
 
-Gerard Braad
+_Gerard Braad <me@gbraad.nl>_

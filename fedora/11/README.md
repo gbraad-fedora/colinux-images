@@ -1,8 +1,13 @@
-Fedora 11 base system for use with coLinux.
+Fedora 11 coLinux
+=================
 
 
 This archive contains a Fedora 11 installation which can be used with
 coLinux. Included are the scripts to start the emulation environment.
+
+
+Usage
+-----
 
 The login for the environment is
 
@@ -11,9 +16,17 @@ The login for the environment is
 
 Network is configured from the parameters file 'fedora.conf'.
 
+
+Install
+-------
+
 Installation was performed using the installation DVD in basic mode on
 qemu. It has been tested on the stable version 0.7.3 of coLinux and 
 winpcap on Windows XP.
+
+
+Contribute
+----------
 
 Any comments are welcome at:
 
@@ -21,4 +34,4 @@ Any comments are welcome at:
    gbraad@fedoraproject.org
 
 
-Gerard Braad
+_Gerard Braad <me@gbraad.nl>_
